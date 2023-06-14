@@ -25,10 +25,11 @@ class question_1{
             System.out.println();
         }
     }
+}
+//we can vary the code according ton the question. Here I have taken a Matrix of my own. We can also take a matrix from the user.
 
         
         
         
         
         
-}
