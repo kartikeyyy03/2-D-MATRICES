@@ -1,9 +1,9 @@
 
-
+import java.util.Arrays;;
 public class question_3 {
 
     public static void main(String[] args) {
-        
+    
         int[][] array={
             {1,2,3,4},
             {5,6,7,8},
@@ -21,13 +21,13 @@ public class question_3 {
                 sumarray[i]=sum;
             }
 
-            System.out.print(sumarray[i]+ " ");
-
-
-
-
+            
+            
+            
+            
         }
-
+        
+        System.out.print(Arrays.toString(sumarray));
         
 
 
